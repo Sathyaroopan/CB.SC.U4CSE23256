@@ -1,0 +1,65 @@
+{
+    "count": 10,
+    "top_notifications": [
+        {
+            "ID": "edd415d8-8cf9-484c-84d6-53e80a2a8822",
+            "Message": "Eli Lilly and Company hiring",
+            "Timestamp": "2026-05-06 09:30:13",
+            "Type": "Placement"
+        },
+        {
+            "ID": "e188b351-73ab-469b-a66f-88ba5c2e2955",
+            "Message": "Apple Inc. hiring",
+            "Timestamp": "2026-05-06 07:00:37",
+            "Type": "Placement"
+        },
+        {
+            "ID": "aec2f8f0-2c48-4616-afb4-c545feeef8b3",
+            "Message": "Amgen Inc. hiring",
+            "Timestamp": "2026-05-06 03:00:45",
+            "Type": "Placement"
+        },
+        {
+            "ID": "dcc782ff-a1fb-4b4f-9183-92e142ac470d",
+            "Message": "Microsoft Corporation hiring",
+            "Timestamp": "2026-05-06 02:00:53",
+            "Type": "Placement"
+        },
+        {
+            "ID": "1ea2aa25-f5ab-4f4f-ad6a-756ba0f75a1e",
+            "Message": "Advanced Micro Devices Inc. hiring",
+            "Timestamp": "2026-05-05 22:00:01",
+            "Type": "Placement"
+        },
+        {
+            "ID": "0fd98698-d527-43bf-820a-35e620c913ac",
+            "Message": "Tesla Inc. hiring",
+            "Timestamp": "2026-05-05 20:31:09",
+            "Type": "Placement"
+        },
+        {
+            "ID": "035e77dc-eb20-42fd-ae51-f4b4bd90820b",
+            "Message": "CSX Corporation hiring",
+            "Timestamp": "2026-05-05 16:30:29",
+            "Type": "Placement"
+        },
+        {
+            "ID": "5ee4a9fd-eba6-4454-83e5-14b001161b1f",
+            "Message": "Visa Inc. hiring",
+            "Timestamp": "2026-05-05 15:30:21",
+            "Type": "Placement"
+        },
+        {
+            "ID": "27f0de1f-668c-4681-83bf-6629d42f2fc1",
+            "Message": "CSX Corporation hiring",
+            "Timestamp": "2026-05-05 13:30:09",
+            "Type": "Placement"
+        },
+        {
+            "ID": "2bbadef3-54c6-4120-a29b-98fae8ca44b5",
+            "Message": "Apple Inc. hiring",
+            "Timestamp": "2026-05-05 11:00:57",
+            "Type": "Placement"
+        }
+    ]
+}
